@@ -1,4 +1,4 @@
-# MTP-LlLAM.cpp-Strix-Halo-Windows11
+# MTP-LLAMA.cpp-Strix-Halo-Windows11
 This guide builds llama.cpp from source on Windows 11 with HIP/ROCm support for the AMD Radeon 8060S iGPU (gfx1151) found in AMD Ryzen AI Max+ 395 ("Strix Halo"). This is just instructions and command line. It worked for me, I hope it will work for you. I used Claude Opus 4.7 to debug various steps. Gemini 3.1 pro, wasn't helpfull.
 
 # llama.cpp with MTP Speculative Decoding on Strix Halo (Windows 11)
